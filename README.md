@@ -1,6 +1,7 @@
 # Groupe-Chat
 Ce projet consiste en la réalisation d’une application de messagerie de type "Group Chat". Chaque utilisateur peut voir les messages envoyés par tous les autres utilisateurs connectés.
 Fonctionnalités
+
 Messagerie de groupe : Permet à chaque utilisateur de voir les messages envoyés par tous les participants.
 Informations sur les messages : Les messages incluent le nom de l’utilisateur et la date d’envoi (par exemple : Alice dit "Bonjour!" le 12/12/2023 à 14h25).
 Architecture décentralisée : Chaque machine connectée au chat joue un rôle symétrique et communique directement avec les autres, sans passer par un serveur central.
